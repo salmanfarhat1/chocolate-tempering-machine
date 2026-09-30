@@ -1,0 +1,22 @@
+# Arduino
+*.hex
+*.elf
+*.eep
+*.bin
+*.map
+
+# Arduino IDE
+.arduino/
+build/
+build-*/
+
+# macOS
+.DS_Store
+
+# Editor / IDE
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.swp
