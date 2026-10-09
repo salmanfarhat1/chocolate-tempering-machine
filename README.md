@@ -32,6 +32,9 @@ DIY chocolate tempering controller based on ESP32.
 | Heater Relay | GPIO 14 |
 | Heater LED | GPIO 25 |
 | Heater Button | GPIO 26 |
+| Peltier (Cooling) Relay | GPIO 33 |
+| Peltier (Cooling) Button | GPIO 32 |
+| Peltier (Cooling) LED | GPIO 23 |
 | OLED SDA | GPIO 21 |
 | OLED SCL | GPIO 22 |
 
@@ -44,4 +47,3 @@ DIY chocolate tempering controller based on ESP32.
 ## Firmware
 
 Main file:
-
